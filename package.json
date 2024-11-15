@@ -1,0 +1,17 @@
+{
+	"name": "is-hw10-tut14",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": "Luca Deltort",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"dotenv": "^16.4.5",
+		"ejs": "^3.1.10",
+		"express": "^4.21.1",
+		"pg": "^8.13.1"
+	}
+}
